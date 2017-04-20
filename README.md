@@ -4,6 +4,7 @@
 ## This is still in development. I'm creating my seed by learning Vue.js 
 > This is Based in :
 	Vue.js v2.2.1
+	
 	Vue Router v2.4.0
 ## Build Setup
 
