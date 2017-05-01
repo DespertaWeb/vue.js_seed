@@ -1,0 +1,11 @@
+{
+  "links": [
+      {"name": "home",    "title": "Home"},
+      {"name": "artists", "title": "Tattoo Artists"},
+      {"name": "tattoos", "title": "tattoos"},
+
+      {"name": "home_app",    "title": "Home _app"},
+      {"name": "artists_app", "title": "Tattoo Artists_app"},
+      {"name": "tattoos_app", "title": "tattoos_app"}
+  ]
+}
